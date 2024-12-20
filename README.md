@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle Examples</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the steps of creating and completing a ticket in the open-source help desk ticketing system osTicket.<br />
 
 
 <!-- <h2>Video Demonstration</h2>
@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here, I created a ticket. It was a simple thing for demonstration purposes. I also used the user "Karen" who was created in the post-installation portion.
 </p>
 <br />
 
@@ -44,7 +44,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I logged in as Joe, to view and work the ticket. This, actually, is when I learned he didn't have the permissions necessary. So, I changed his access to allow him to work the ticket. I had him set the SLA to "Sev-A." Also, I had him assign the ticket to the "Online Banking" team. Lastly, I had him create comments to explain why he did these things.
+</p>
+
+<p>
+  After that, I logged on as Jane, so I could see the results. As the picture here shows, Jane can see John's actions and comments. Jane is also part of the online banking team.
 </p>
 <br />
 
@@ -53,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket is marked "overdue" because I took a nap while making these pictures. At the SLA level "Sev-A" this should have been done within an hour. And if a system was truly down, it would have been dealt with promptly. In any case, I had Jane send a comment regarding what steps would be taken to resolve the issue. For I know that it is not enough just to work on a ticket, but logs must be made so everyone knows what is going on. If I begin working on a ticket, I should say so. Especially, as if two people began working on a single ticket because neither knew the other was doing so, it would be a waste of resources. Also, the actions of one could affect the other's progress. Therefore, proper communication is essential.
 </p>
 <br />
 
@@ -62,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Afterward, I left a comment simulating that the ticket was resolved. And then, I closed the ticket.
 </p>
 <br />
 
@@ -72,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then, logging into the admin account, I reviewed the closed ticket. This is the entirety of the ticket lifecycle. Therefore, I know how to create, assign, comment on, and complete a ticket in osTicket. I also know how to make internal comments that the users cannot see but the agents can. But I did not display that here.
 </p>
 <br />
